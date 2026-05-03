@@ -1,0 +1,11 @@
+tenancy_id,property_id,landlord_id,tenant_id,rent_amount,rent_frequency,tenancy_start_date,tenancy_end_date,tenancy_status
+TN001,P001,L001,T001,1500,Monthly,2022-01-01,,Active
+TN002,P002,L002,T002,1200,Monthly,2021-05-01,2023-05-01,Closed
+TN003,P003,L003,T003,900,Monthly,2022-03-01,,Active
+TN004,P004,L004,T004,50,Monthly,2021-09-01,,Active
+TN005,P005,L005,T005,1800,Monthly,2020-01-01,,Active
+TN006,P006,L006,T006,2000,Monthly,2023-04-01,,Active
+TN007,P007,L007,T007,1100,Monthly,2021-10-01,,Active
+TN008,P008,L008,T008,1300,Monthly,2020-08-01,,Active
+TN009,P009,L009,T009,2500,Monthly,2022-12-01,,Active
+TN009,P009,L009,T009,2500,Monthly,2022-12-01,,Active
