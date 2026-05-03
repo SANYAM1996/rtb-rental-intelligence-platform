@@ -1,5 +1,3 @@
-# rtb-rental-intelligence-platform
-
 # RTB Rental Intelligence & Compliance Platform
 
 ## Project Objective
